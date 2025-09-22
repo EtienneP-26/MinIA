@@ -1,6 +1,6 @@
 ![logo](assets/LOGO_LARGE_Min-IA.png)
 
-# Min-IA
+# MIA
 
 ## CONTRIBUTORS
 ### Developpers
